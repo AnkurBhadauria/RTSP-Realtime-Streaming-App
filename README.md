@@ -3,7 +3,6 @@
 
 Unlike [AndroidX Media ExoPlayer](https://github.com/androidx/media) which also supports RTSP, this library does not make any video buffering. Video frames are shown immidiately when they arrive.
 
-[![Release](https://jitpack.io/v/alexeyvasilyev/rtsp-client-android.svg)](https://jitpack.io/#alexeyvasilyev/rtsp-client-android)
 
 ![Screenshot](docs/images/rtsp-demo-app.webp?raw=true "Screenshot")
 
